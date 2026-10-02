@@ -1,0 +1,15 @@
+include src/psics/*.m
+include src/psics/*.R
+include src/psics/*.mex
+include src/psics/*.c
+include src/psics/*.h
+include src/psics/Covpath/*
+include src/psics/Covpath/R/*
+include src/psics/Covpath/data/*
+include src/psics/Covpath/demo/*
+include src/psics/Covpath/inst/*
+include src/psics/Covpath/inst/extdata/*
+include src/psics/Covpath/man/*
+include src/psics/Covpath/src/*
+
+

@@ -1,0 +1,8 @@
+# Remove the previous line if you edit this file
+useDynLib(Covpath,bcdCorrector)
+# Export all names
+exportPattern(".")
+
+# export agregados
+importFrom("graphics", "hist")
+importFrom("stats", "cor", "cov", "quantile")
